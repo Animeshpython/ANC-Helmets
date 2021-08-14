@@ -7,8 +7,6 @@ Bikes and cycles have always been associated with helmets since it is a means of
 
 On the other hand, cars are equipped with endless features. Our agenda is to bring some features to the bike world and make their lives a bit easier. Our idea is to invent a small device  that works as a patch with an in-built Bluetooth speakers and microphone that could be fitted inside helmets. This device will connect with a mobile application with features that would make sure their every ride is pleasant, safe, efficient and joyful. Our main motto is to make riding experience advance yet simple.
 
-We will further discuss about the various aspects of the projects in the later sections. The report contains the motivation of the project, a brief introduction of the overall working of the project under project summary and details of all the technical aspects of the project under project details.
-
 ### MOTIVATION:
 
 With growing population, the traffic on roads is increasing rapidly and people are leaning towards using two wheelers for daily commute, there are other benefits to it like they are cheaper than cars, do not take much parking space and reaching to places of work takes less than half the time as compared to four wheelers specially in crowded cities and peak office hours, which is an issue in most parts of the world now. One issues with bikes is that you cannot multitask, using maps for navigation needs you to stop the bike open your phone and then remember the route for your destination unlike people with cars who can see as well as listen to navigations, but what if we make it easier just say a command and you can hear navigation till you reaches to your destination from your helmet, no need to check your mobile multiple times and remember the route.
