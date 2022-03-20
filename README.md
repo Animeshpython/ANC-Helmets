@@ -1,5 +1,5 @@
 # ANC-Helmets
-Patches to make helmet's smart
+Smart helmet devices 
 
 ### INTRODUCTION:
 
