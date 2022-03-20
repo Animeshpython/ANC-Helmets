@@ -1,5 +1,5 @@
 # ANC-Helmets
-Smart helmet devices 
+Smart helmet devices to be used with Helmets.
 
 ### INTRODUCTION:
 
